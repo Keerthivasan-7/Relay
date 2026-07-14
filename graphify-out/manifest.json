@@ -1,0 +1,182 @@
+{
+  "app/build.gradle.kts": {
+    "mtime": 1782477452.4040618,
+    "ast_hash": "556ad4958843b8fd34d2a5f5d46c540f",
+    "semantic_hash": ""
+  },
+  "app/src/androidTest/java/com/keerthi/relay/ExampleInstrumentedTest.kt": {
+    "mtime": 1782269774.3719132,
+    "ast_hash": "235854d239b2644d3033f78637aff54f",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/MainActivity.kt": {
+    "mtime": 1782470618.9726684,
+    "ast_hash": "2853b122340881ccf83c6751fce9e477",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/logic/PermissionLogic.kt": {
+    "mtime": 1782622486.9651358,
+    "ast_hash": "d82b7674d12d072281235785ee086f26",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/models/Contact.kt": {
+    "mtime": 1782461200.188176,
+    "ast_hash": "7bd9fa5258b9dae87ff8b8072557a7ea",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/state/PermissionState.kt": {
+    "mtime": 1782632144.8873663,
+    "ast_hash": "06c079803e73e8b9395533463866c799",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/components/Buttons.kt": {
+    "mtime": 1782632149.8296313,
+    "ast_hash": "8d55c3659d0c677d6de1f21bff27cb50",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/components/FloatingBottomBar.kt": {
+    "mtime": 1782635285.147845,
+    "ast_hash": "96376fb79c36dbbd8c87a9de7abce82c",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/components/PermissionPopup.kt": {
+    "mtime": 1782632154.8381405,
+    "ast_hash": "ccab024fd229254ee0a8732102416960",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/components/RatingSheet.kt": {
+    "mtime": 1782632208.0719676,
+    "ast_hash": "5f2cba2a8a0d26f3ddef9f25b5214ab1",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/components/SearchBars.kt": {
+    "mtime": 1782635086.488776,
+    "ast_hash": "6c71f432aee8ef3a1f88f905a5ccdcd4",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/screens/home/ContactsScreen.kt": {
+    "mtime": 1782632215.3606303,
+    "ast_hash": "fbaf6ec04df89b67937485338eb20703",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/screens/home/RecentsScreen.kt": {
+    "mtime": 1782635285.1378334,
+    "ast_hash": "d008f7585c0c220424006512b98aa443",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/theme/Color.kt": {
+    "mtime": 1782269775.6574628,
+    "ast_hash": "50877e2e6cb6cea771059cf4e854d27e",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/theme/Theme.kt": {
+    "mtime": 1782269776.7840476,
+    "ast_hash": "1f0cc1bd86f88aa6296b7c9257b4cdf6",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/theme/Type.kt": {
+    "mtime": 1782269775.6807928,
+    "ast_hash": "206c48bb7596939bed45bf0b94bd9456",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/utils/permissionhelper/CallLogsPermission.kt": {
+    "mtime": 1782632752.082205,
+    "ast_hash": "820eac193b043db3fbcb9d50ff110003",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/utils/permissionhelper/ContactsPermission.kt": {
+    "mtime": 1782632172.817791,
+    "ast_hash": "6a1370e14aea7ee2c167d59f193fd89b",
+    "semantic_hash": ""
+  },
+  "app/src/test/java/com/keerthi/relay/ExampleUnitTest.kt": {
+    "mtime": 1782269774.308699,
+    "ast_hash": "9d9e899deabb802db5dc76ae9b59a3b8",
+    "semantic_hash": ""
+  },
+  "build.gradle.kts": {
+    "mtime": 1782269776.300868,
+    "ast_hash": "f49e4fcefdb4de67e72283440b2f3b75",
+    "semantic_hash": ""
+  },
+  "gradlew": {
+    "mtime": 1782269770.9640794,
+    "ast_hash": "266606e78242737ef3da02a80ea0564d",
+    "semantic_hash": ""
+  },
+  "settings.gradle.kts": {
+    "mtime": 1782269773.3643582,
+    "ast_hash": "a76635a21a1067a2fae13e782c7d1829",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-hdpi/ic_launcher.webp": {
+    "mtime": 1782269772.895881,
+    "ast_hash": "39d9bb21eb48f128a71c3f01ad3cd427",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-hdpi/ic_launcher_round.webp": {
+    "mtime": 1782269772.9056785,
+    "ast_hash": "70d6f58af3c76ee221c829b1ce9daa04",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-mdpi/ic_launcher.webp": {
+    "mtime": 1782269772.9235246,
+    "ast_hash": "d2acce71c7b46e5e9540d23a9f7b2166",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-mdpi/ic_launcher_round.webp": {
+    "mtime": 1782269772.9313993,
+    "ast_hash": "6376acb48f96a855ee95c113cd7fd616",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-xhdpi/ic_launcher.webp": {
+    "mtime": 1782269772.946925,
+    "ast_hash": "bd087d80b70bec05a43c745f29dc3ffc",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp": {
+    "mtime": 1782269772.951292,
+    "ast_hash": "7479edd56ab712609f030054bffd7263",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-xxhdpi/ic_launcher.webp": {
+    "mtime": 1782269772.972989,
+    "ast_hash": "ea180e8d1a2e8300cc998b987266b736",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp": {
+    "mtime": 1782269772.978258,
+    "ast_hash": "947842742b29eeda80ee0805e1600366",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp": {
+    "mtime": 1782269772.9939451,
+    "ast_hash": "54ab624970c86c2146e76b93f27586f7",
+    "semantic_hash": ""
+  },
+  "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp": {
+    "mtime": 1782269772.9939451,
+    "ast_hash": "9ee591be72fb336861a8044086054daa",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/models/CallLogEntry.kt": {
+    "mtime": 1782632185.3224978,
+    "ast_hash": "7f4183dfa08ffc5561226f8cf8558451",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/screens/home/DialScreen.kt": {
+    "mtime": 1782633128.5336182,
+    "ast_hash": "b894cba0508119b146ad7dd2f4e7937f",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/ui/screens/home/FavoritesScreen.kt": {
+    "mtime": 1782632221.838746,
+    "ast_hash": "b5d4ec8e6723fba8d252e759adc50b18",
+    "semantic_hash": ""
+  },
+  "app/src/main/java/com/keerthi/relay/utils/ContactFetcher.kt": {
+    "mtime": 1782632191.4903939,
+    "ast_hash": "dd6029735be6dc02a931b83eadf1870d",
+    "semantic_hash": ""
+  }
+}
